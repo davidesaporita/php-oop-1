@@ -35,7 +35,7 @@ class Movie {
         echo "<br>Director: {$this->director}";
         echo "<br>Genre: {$this->genre}";
         echo "<br>Main Act: {$this->main_actor}";
-        echo "<br>Supporti: {$this->supporting_actor}";
+        echo "<br>Supporting: {$this->supporting_actor}";
         echo "<br>Budget: {$this->budget}";
         echo "<br>Revenue: {$this->revenue}";
         echo "<br>Profit: {$this->calcProfit()}";
